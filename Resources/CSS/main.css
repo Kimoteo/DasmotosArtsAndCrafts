@@ -45,7 +45,7 @@ p{
   line-height: 1.2em;
 }
 
-strong {
+.price {
   color:blue;
   font-weight:bold;
 }
